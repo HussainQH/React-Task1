@@ -8,6 +8,10 @@ function App() {
   return (
     <div>
       <Home />
+      <br />
+      <br />
+      <br />
+
       <ProductList ProductList={productsData} />
     </div>
   );

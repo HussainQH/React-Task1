@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.home {
+  text-align: center;
+  color: #284b63;
+  text-shadow: 2px 2px #35353588;
+  font-size: 170%;
+}
+
+body {
+  background-color: #d9d9d97c;
+}
+
+.image {
+  width: 20%;
+  height: 20%;
+  border-radius: 25%;
+}
+
+.list {
+  color: #284b63;
+  text-align: center;
+  font-size: larger;
+  font-weight: bolder;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
